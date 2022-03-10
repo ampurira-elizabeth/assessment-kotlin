@@ -1,13 +1,6 @@
 fun main(){
 var name ="codeHive"
-    var char1=[5]
-    var char2=6
-    var char3=7
-    var char4=8
-    println(char1)
-
-
-
+    println(charArrayOf('5','6','7','8'))
 
    var y =two(100,40)
     var number1=100
